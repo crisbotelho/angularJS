@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-02-20T14:36:33" hostname="HOT-C02FV2W0MD6M.local" time="0.664">
+  <properties/>
+  <testcase name="It should register the customer to the cuisine" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.625"/>
+  <testcase name="It should list the four customers registered with the german cuisine" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.007"/>
+  <testcase name="It should return all cuisine as the top cuisines" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.004"/>
+  <testcase name="It should return two cuisines" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.002"/>
+  <testcase name="It should list the three top cuisines (Japanese, Brazilian and Korean)" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.006"/>
+  <testcase name="It should list the three cuisines registered with the specific customer" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.002"/>
+  <testcase name="It should return an empty list" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.002"/>
+  <testcase name="It should return Japanese cuisine as the top one cuisine" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.002"/>
+  <testcase name="It should add the customer to the customer list related to the cuisine" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.002"/>
+  <testcase name="It should add the cuisine to the cuisine list related to the customer" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.002"/>
+  <testcase name="It should register the cuisine to the customer" classname="de.quandoo.recruitment.registry.InMemoryCuisinesRegistryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
